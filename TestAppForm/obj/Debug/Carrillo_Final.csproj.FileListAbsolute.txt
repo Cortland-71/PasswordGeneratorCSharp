@@ -1,0 +1,10 @@
+C:\Users\carrilloc.YGA\Desktop\C#Class\Final\Carrillo_Final\TestAppForm\obj\Debug\Carrillo_Final.csprojResolveAssemblyReference.cache
+C:\Users\carrilloc.YGA\Desktop\C#Class\Final\Carrillo_Final\TestAppForm\obj\Debug\TestAppForm.PWG.resources
+C:\Users\carrilloc.YGA\Desktop\C#Class\Final\Carrillo_Final\TestAppForm\obj\Debug\TestAppForm.Properties.Resources.resources
+C:\Users\carrilloc.YGA\Desktop\C#Class\Final\Carrillo_Final\TestAppForm\obj\Debug\Carrillo_Final.csproj.GenerateResource.Cache
+C:\Users\carrilloc.YGA\Desktop\C#Class\Final\Carrillo_Final\TestAppForm\obj\Debug\Carrillo_Final.csproj.CoreCompileInputs.cache
+C:\Users\carrilloc.YGA\Desktop\C#Class\Final\Carrillo_Final\TestAppForm\obj\Debug\TestAppForm.exe
+C:\Users\carrilloc.YGA\Desktop\C#Class\Final\Carrillo_Final\TestAppForm\obj\Debug\TestAppForm.pdb
+C:\Users\carrilloc.YGA\Desktop\C#Class\Final\Carrillo_Final\TestAppForm\bin\Debug\TestAppForm.exe.config
+C:\Users\carrilloc.YGA\Desktop\C#Class\Final\Carrillo_Final\TestAppForm\bin\Debug\TestAppForm.exe
+C:\Users\carrilloc.YGA\Desktop\C#Class\Final\Carrillo_Final\TestAppForm\bin\Debug\TestAppForm.pdb
